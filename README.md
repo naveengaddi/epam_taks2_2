@@ -8,3 +8,14 @@ I created a client web-app using html forms as input from client processing java
 
 
 Server Program is # Calculate.java
+
+
+Inputs is submitted through html forms
+
+  principle amount Number
+  no.of years   Number  
+  rate of Interest Number
+  
+output
+simple interest
+compound interest
